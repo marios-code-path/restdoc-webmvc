@@ -1,0 +1,16 @@
+= Computing the Root and Square Root of a Double
+
+This is an exercise that uses RESTful endpoints to compute
+Math.sqrt(input) and square of a number.
+
+The server is running at http://localhost:8080.
+
+To compute the square root of any number, follow
+the following request/response guidelines.
+
+.request
+include::{snippets}/root/http-request.adoc[]
+
+.response
+include::{snippets}/root/http-response.adoc[]
+
