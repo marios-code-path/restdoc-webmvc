@@ -1,0 +1,3 @@
+spring:
+  application.name: restdoc-webmvc
+server.port: 8080
